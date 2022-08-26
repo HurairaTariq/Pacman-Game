@@ -861,11 +861,9 @@ int main()
 		{ 
 			cout << "Credit" << endl;
 			Sleep(1500);
-			cout << "SHAHBAZ GONDAL" << endl;
+			cout << "Huraira Tariq" << endl;
 			Sleep(1500);
-			cout << "ABDUL QADIR" << endl;
-			Sleep(1500);
-			cout << "ALI AHMAD" << endl;
+			cout << "Shahbaz Gondal" << endl;
 		}
 		else if (mainopr == '3')
 		{
